@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VndQV2p-xMgZqRajL8vP-138" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="90" y="130" width="580" height="280" as="geometry" />
+          <mxGeometry x="90" y="130" width="580" height="330" as="geometry" />
         </mxCell>
         <mxCell id="VndQV2p-xMgZqRajL8vP-139" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-138">
           <mxGeometry width="580" height="40" as="geometry" />
@@ -110,7 +110,7 @@
             <mxRectangle width="78" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VndQV2p-xMgZqRajL8vP-155" value="ได้รับพัสดุจากร้านค้าเรา" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-148">
+        <mxCell id="VndQV2p-xMgZqRajL8vP-155" value="เลือกบริษัทขนส่งให้เหมาะสม" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-148">
           <mxGeometry x="438" width="80" height="50" as="geometry">
             <mxRectangle width="80" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -153,7 +153,7 @@
             <mxRectangle width="78" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VndQV2p-xMgZqRajL8vP-164" value="ปริ้นใบปะหน้าพัสดุ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-157">
+        <mxCell id="VndQV2p-xMgZqRajL8vP-164" value="ขนส่งได้รับพัสดุจากร้านค้าเรา" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-157">
           <mxGeometry x="438" width="80" height="50" as="geometry">
             <mxRectangle width="80" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -196,7 +196,7 @@
             <mxRectangle width="78" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VndQV2p-xMgZqRajL8vP-173" value="ส่งพัสดุให้ลูกค้า" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-166">
+        <mxCell id="VndQV2p-xMgZqRajL8vP-173" value="ปริ้นใบปะหน้าพัสดุ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-166">
           <mxGeometry x="438" width="80" height="40" as="geometry">
             <mxRectangle width="80" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -239,7 +239,7 @@
             <mxRectangle width="78" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VndQV2p-xMgZqRajL8vP-189" value="เก็บเงินปลายทางป้าว" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-182">
+        <mxCell id="VndQV2p-xMgZqRajL8vP-189" value="ส่งพัสดุให้ลูกค้า" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-182">
           <mxGeometry x="438" width="80" height="50" as="geometry">
             <mxRectangle width="80" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -282,12 +282,55 @@
             <mxRectangle width="78" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VndQV2p-xMgZqRajL8vP-198" value="ส่งกลับป้าว + การคืนเงิน" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-191">
+        <mxCell id="VndQV2p-xMgZqRajL8vP-198" value="เก็บเงินปลายทางป้าว" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-191">
           <mxGeometry x="438" width="80" height="50" as="geometry">
             <mxRectangle width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VndQV2p-xMgZqRajL8vP-199" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-191">
+          <mxGeometry x="518" width="62" height="50" as="geometry">
+            <mxRectangle width="62" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VndQV2p-xMgZqRajL8vP-200" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-138">
+          <mxGeometry y="280" width="580" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VndQV2p-xMgZqRajL8vP-201" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-200">
+          <mxGeometry width="80" height="50" as="geometry">
+            <mxRectangle width="80" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VndQV2p-xMgZqRajL8vP-202" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-200">
+          <mxGeometry x="80" width="70" height="50" as="geometry">
+            <mxRectangle width="70" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VndQV2p-xMgZqRajL8vP-203" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-200">
+          <mxGeometry x="150" width="70" height="50" as="geometry">
+            <mxRectangle width="70" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VndQV2p-xMgZqRajL8vP-204" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-200">
+          <mxGeometry x="220" width="70" height="50" as="geometry">
+            <mxRectangle width="70" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VndQV2p-xMgZqRajL8vP-205" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-200">
+          <mxGeometry x="290" width="70" height="50" as="geometry">
+            <mxRectangle width="70" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VndQV2p-xMgZqRajL8vP-206" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-200">
+          <mxGeometry x="360" width="78" height="50" as="geometry">
+            <mxRectangle width="78" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VndQV2p-xMgZqRajL8vP-207" value="ส่งกลับป้าว + การคืนเงิน" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-200">
+          <mxGeometry x="438" width="80" height="50" as="geometry">
+            <mxRectangle width="80" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VndQV2p-xMgZqRajL8vP-208" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-200">
           <mxGeometry x="518" width="62" height="50" as="geometry">
             <mxRectangle width="62" height="50" as="alternateBounds" />
           </mxGeometry>
