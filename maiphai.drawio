@@ -239,7 +239,7 @@
             <mxRectangle width="78" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VndQV2p-xMgZqRajL8vP-189" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-182">
+        <mxCell id="VndQV2p-xMgZqRajL8vP-189" value="เก็บเงินปลายทางป้าว" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-182">
           <mxGeometry x="438" width="80" height="50" as="geometry">
             <mxRectangle width="80" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -282,7 +282,7 @@
             <mxRectangle width="78" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VndQV2p-xMgZqRajL8vP-198" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-191">
+        <mxCell id="VndQV2p-xMgZqRajL8vP-198" value="ส่งกลับป้าว + การคืนเงิน" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-191">
           <mxGeometry x="438" width="80" height="50" as="geometry">
             <mxRectangle width="80" height="50" as="alternateBounds" />
           </mxGeometry>
