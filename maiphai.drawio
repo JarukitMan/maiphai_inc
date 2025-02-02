@@ -341,7 +341,7 @@
         <mxCell id="VndQV2p-xMgZqRajL8vP-177" value="ตัวอย่าง" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VndQV2p-xMgZqRajL8vP-178" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VndQV2p-xMgZqRajL8vP-178" value="กูขกเดี่ยวมาทำต่อ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VndQV2p-xMgZqRajL8vP-179" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -354,7 +354,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VndQV2p-xMgZqRajL8vP-181" value="ของฮอล" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="738" width="70" height="30" as="geometry" />
+          <mxGeometry x="30" y="745" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VndQV2p-xMgZqRajL8vP-209" value="Value Chain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="680" width="90" height="30" as="geometry" />
