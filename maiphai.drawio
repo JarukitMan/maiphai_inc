@@ -356,9 +356,6 @@
         <mxCell id="VndQV2p-xMgZqRajL8vP-181" value="ของฮอล" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="745" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VndQV2p-xMgZqRajL8vP-209" value="Value Chain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="680" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="VndQV2p-xMgZqRajL8vP-210" value="เสร้จแล้วค่อยเอามารวมกัน" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="1058" width="150" height="30" as="geometry" />
         </mxCell>
