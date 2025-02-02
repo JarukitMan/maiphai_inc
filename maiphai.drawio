@@ -191,7 +191,7 @@
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VndQV2p-xMgZqRajL8vP-172" value="ออกใบเสร็จ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-166">
+        <mxCell id="VndQV2p-xMgZqRajL8vP-172" value="ลูกค้าชำระเงิน" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-166">
           <mxGeometry x="360" width="78" height="40" as="geometry">
             <mxRectangle width="78" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -234,7 +234,7 @@
             <mxRectangle width="70" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VndQV2p-xMgZqRajL8vP-188" value="&amp;nbsp;ดูแลลูกค้า" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-182">
+        <mxCell id="VndQV2p-xMgZqRajL8vP-188" value="ออกใบเสร็จ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-182">
           <mxGeometry x="360" width="78" height="50" as="geometry">
             <mxRectangle width="78" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -277,7 +277,7 @@
             <mxRectangle width="70" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VndQV2p-xMgZqRajL8vP-197" value="ส่งคำสั่งขนส่ง" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-191">
+        <mxCell id="VndQV2p-xMgZqRajL8vP-197" value="&amp;nbsp;ดูแลลูกค้า" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-191">
           <mxGeometry x="360" width="78" height="50" as="geometry">
             <mxRectangle width="78" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -320,7 +320,7 @@
             <mxRectangle width="70" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VndQV2p-xMgZqRajL8vP-206" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-200">
+        <mxCell id="VndQV2p-xMgZqRajL8vP-206" value="ส่งคำสั่งขนส่ง" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VndQV2p-xMgZqRajL8vP-200">
           <mxGeometry x="360" width="78" height="50" as="geometry">
             <mxRectangle width="78" height="50" as="alternateBounds" />
           </mxGeometry>
