@@ -10,3 +10,5 @@ A repository to contain the files related to the Fundamentals of Information Sys
 6. Write HTMLs, CSSs, and Scripts.
 
 ## REMEMBER TO WRITE THE REPORTS!
+
+drawio link: https://app.diagrams.net/?src=about#HJarukitMan%2Fmaiphai_inc%2Fmain%2Fmaiphai.drawio#%7B"pageId"%3A"Vmd_GP2wZUAH8R4eqfcc"%7D
