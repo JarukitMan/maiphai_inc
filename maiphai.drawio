@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.11">
   <diagram name="Page-1" id="Vmd_GP2wZUAH8R4eqfcc">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1239" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
             <mxRectangle width="78" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VndQV2p-xMgZqRajL8vP-146" value="Shifting" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VndQV2p-xMgZqRajL8vP-139" vertex="1">
+        <mxCell id="VndQV2p-xMgZqRajL8vP-146" value="Shipping" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VndQV2p-xMgZqRajL8vP-139" vertex="1">
           <mxGeometry x="438" width="80" height="41" as="geometry">
             <mxRectangle width="80" height="41" as="alternateBounds" />
           </mxGeometry>
@@ -538,6 +538,39 @@
         </mxCell>
         <mxCell id="3FbNZ7dBtlVezuN98ruK-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="1572.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="D5sXMnCOgOMmpxRdZkEK-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Business Rules (5 of each)&lt;/h1&gt;&lt;p&gt;Management&lt;/p&gt;&lt;p&gt;Marketing&lt;/p&gt;&lt;p&gt;Production&lt;/p&gt;&lt;p&gt;Distribution&lt;/p&gt;&lt;p&gt;Development&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2310" width="530" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="D5sXMnCOgOMmpxRdZkEK-8" value="Office" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5sXMnCOgOMmpxRdZkEK-9" value="Web Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5sXMnCOgOMmpxRdZkEK-10" value="Factories" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="2530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5sXMnCOgOMmpxRdZkEK-11" value="Farms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="2530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5sXMnCOgOMmpxRdZkEK-12" value="Customers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5sXMnCOgOMmpxRdZkEK-13" value="Transport" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5sXMnCOgOMmpxRdZkEK-14" value="Website" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5sXMnCOgOMmpxRdZkEK-15" value="Order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5sXMnCOgOMmpxRdZkEK-16" value="Payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="2610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5sXMnCOgOMmpxRdZkEK-17" value="deaw perm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="2610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
